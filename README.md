@@ -4,8 +4,6 @@
 
 ### Examples from Test Set
 
-:bulb: Notice the convergence in first steps
-
 <table>
     <thead>
         <tr>
@@ -23,11 +21,6 @@
         <td><img src='images/labeled_1.gif'></td>
         <td><img src='images/predicted_1.gif'></td>
         <td><img src='images/diff_1.gif'></td>
-    </tr>
-    <tr>
-        <td><img src='images/labeled_2.gif'></td>
-        <td><img src='images/predicted_2.gif'></td>
-        <td><img src='images/diff_2.gif'></td>
     </tr>
 </table>
 
